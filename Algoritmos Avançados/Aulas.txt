@@ -1,0 +1,48 @@
+Unidade 1: Fundamentos para Algoritmos Avançados
+Esta unidade estabelece as bases necessárias para a disciplina, revisando conceitos fundamentais e introduzindo os paradigmas gerais de projeto de algoritmos.
+
+Aula 1:
+Tema: Conceitos avançados de algoritmos
+Conteúdo: Representação de variáveis, tipos e estruturas de dados. Recursividade e tentativa e erro.
+
+Aula 2: (Antes aula 3)
+Tema: Paradigmas de Projeto de Algoritmos – Visão Geral
+Conteúdo: Apresentação dos principais paradigmas, definição e importância na resolução de problemas complexos.
+
+Aula 3: (Antes aula 4)
+Tema: Divisão e Conquista
+Conteúdo: Conceitos, exemplos clássicos (como ordenação por merge sort), e análise de aplicação deste paradigma.
+
+Aula 4: (Antes aula 2)
+Tema: Métodos de resolução de recorrências
+Conteúdo: Técnicas para resolver equações de recorrência, incluindo método da substituição, árvore de recursão e o Teorema Mestre.
+
+Unidade 2: Paradigmas Avançados
+Foco nos métodos e estratégias mais sofisticadas para a elaboração de algoritmos, explorando técnicas que ampliam a capacidade de resolver problemas otimizados.
+
+Aula 5: (Antes aula 6)
+Tema: Algoritmos Gulosos
+Conteúdo: Estratégias gulosas, critérios de escolha, análise de casos onde a abordagem é ótima e exemplos práticos.
+
+Aula 6: (Antes aula 5)
+Tema: Programação Dinâmica
+Conteúdo: Princípios da programação dinâmica, identificação de subproblemas sobrepostos e estratégias de memoização e tabulação.
+
+Aula 7:
+Tema: Técnicas de Backtracking e Branch & Bound
+Conteúdo: Conceitos de busca exaustiva, poda de ramos, e aplicação em problemas de otimização e combinação.
+
+Unidade 3: Estruturas de Dados Avançadas e Algoritmos em Grafos
+Aborda estruturas de dados que suportam algoritmos avançados e detalha os principais algoritmos aplicados em grafos e redes.
+
+Aula 8:
+Tema: Estruturas de Dados Avançadas
+Conteúdo: Estudo de árvores balanceadas, heaps, árvores B e estruturas especializadas para a otimização de algoritmos.
+
+Aula 9:
+Tema: Representação de Grafos e Técnicas de Busca
+Conteúdo: Formas de representação de grafos, e revisão das técnicas de busca em grafos – BFS e DFS –, enfatizando aplicações práticas.
+
+Aula 10:
+Tema: Algoritmos em Grafos
+Conteúdo: Algoritmos de caminhos mínimos (Dijkstra, Bellman-Ford, Floyd-Warshall), além de conceitos e aplicações de fluxo máximo e árvores geradoras mínimas.
